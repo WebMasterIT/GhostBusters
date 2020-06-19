@@ -22,7 +22,7 @@ $(document).ready(function () {
                 slidesPerView: 4
             },
             768: {
-                slidesPerView: 2
+                slidesPerView: 4
             },
             320: {
                 slidesPerView: 1,
