@@ -540,6 +540,7 @@ body {
     }
     .button-next {
         display: block;
+        outline: none;
     }
     .mobile-buttons {
         outline: none;
