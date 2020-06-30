@@ -541,6 +541,7 @@ body {
     .button-next {
         display: block;
         outline: none;
+        z-index:100;
     }
     .mobile-buttons {
         outline: none;
